@@ -37,16 +37,14 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**Programming & Web Development**
+**Web Development**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 **Design & Tools**
 
@@ -83,7 +81,7 @@
 | 🚗 [**GoRent – Car Rental**](https://github.com/Callysta27/rental-kendaraan) | Aplikasi rental kendaraan dengan modul penyewaan, invoice, dan panel admin *(Team Lead)* | Spring Boot · MySQL · HTML/JS |
 | 🍜 **Campus Canteen Ordering** | Backend pemesanan kantin: skema basis data, CRUD menu & pesanan, autentikasi admin *(Team Lead)* | Java Spring Boot |
 | 🎓 **Sistem Manajemen Data Kampus** | Aplikasi akademik untuk data mahasiswa, bimbingan, dan jadwal ujian dengan tabel reporting | Fullstack · RDBMS |
-| 💱 **Money Changer** | Aplikasi penukaran mata uang berbasis terminal dengan role-based access *(Team Lead)* | C++ |
+| 💱 **Money Changer** | Aplikasi penukaran mata uang berbasis terminal dengan role-based access *(Team Lead)* | Java |
 | 🛒 [**Toko Elektronik**](https://github.com/Callysta27/Toko-Elektronik) | Manajemen data barang elektronik dengan konsep OOP dan File I/O | Java · OOP |
 
 ---
@@ -97,7 +95,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Callysta27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Callysta27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center"><i>"Turning raw data into decisions, one query at a time."</i> ✨</p>
