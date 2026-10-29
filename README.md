@@ -95,8 +95,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Callysta27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callysta27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=Callysta27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center"><i>"Turning raw data into decisions, one query at a time."</i> ✨</p>
