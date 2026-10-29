@@ -81,7 +81,7 @@
 | 🚗 [**GoRent – Car Rental**](https://github.com/Callysta27/rental-kendaraan) | Aplikasi rental kendaraan dengan modul penyewaan, invoice, dan panel admin *(Team Lead)* | Spring Boot · MySQL · HTML/JS |
 | 🍜 **Campus Canteen Ordering** | Backend pemesanan kantin: skema basis data, CRUD menu & pesanan, autentikasi admin *(Team Lead)* | Java Spring Boot |
 | 🎓 **Sistem Manajemen Data Kampus** | Aplikasi akademik untuk data mahasiswa, bimbingan, dan jadwal ujian dengan tabel reporting | Fullstack · RDBMS |
-| 💱 **Money Changer** | Aplikasi penukaran mata uang berbasis terminal dengan role-based access *(Team Lead)* | Java |
+| 💱 **Money Changer** | Aplikasi penukaran mata uang berbasis terminal dengan role-based access *(Team Lead)* | C++ |
 | 🛒 [**Toko Elektronik**](https://github.com/Callysta27/Toko-Elektronik) | Manajemen data barang elektronik dengan konsep OOP dan File I/O | Java · OOP |
 
 ---
