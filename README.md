@@ -37,14 +37,16 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**Web Development**
+**Programming & Web Development**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 **Design & Tools**
 
@@ -58,7 +60,7 @@
 
 ### 📊 Data Projects
 
-**🚕 Analisis Data Perjalanan Taksi Kuning NYC** · *Python, Pandas, Google Colab*
+**🚕 [Analisis Data Perjalanan Taksi Kuning NYC](https://github.com/Callysta27/nyc-yellow-taxi-analysis)** · *Python, Pandas, Google Colab*
 - Menganalisis **11 juta+** data perjalanan taksi NYC TLC (Jan–Mar 2026) untuk menjawab 5 business question
 - Data cleaning 2 tahap (**94,36%** record lolos), 7 fitur baru, dan EDA dengan 13 visualisasi
 - Insight utama: permintaan pukul 18:00 **~7,8x** lebih tinggi dari pukul 04:00, dan **85,84%** penjemputan berada di Manhattan
