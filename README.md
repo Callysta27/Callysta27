@@ -94,8 +94,14 @@
 
 ### 📈 GitHub Stats
 
+---
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Callysta27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Callysta27/Callysta27/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Callysta27/Callysta27/output/github-snake.svg" />
+    <img alt="Animasi ular yang memakan grafik kontribusi GitHub" src="https://raw.githubusercontent.com/Callysta27/Callysta27/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center"><i>"Turning raw data into decisions, one query at a time."</i> ✨</p>
