@@ -2,7 +2,7 @@
 <h3 align="center">Information Systems Student · Data Analytics & Business Intelligence Enthusiast 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Turning+data+into+insights+%F0%9F%93%8A;Designing+data+warehouses+%26+ETL+pipelines+%F0%9F%97%84%EF%B8%8F;Building+web+apps+with+Spring+Boot+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Turning+data+into+insights+%F0%9F%93%8A;Designing+data+warehouses+%26+ETL+pipelines+%F0%9F%97%84%EF%B8%8F;Building+web+apps+with+Spring+Boot+%26+PHP+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🎓 Mahasiswi **Sistem Informasi** semester 5 di **Universitas Tarumanagara** (IPK 3,82/4,00)
 - 📊 Fokus pada **Data Analytics** dan **Business Intelligence**: data cleaning, EDA, data warehouse, dan ETL
-- 🌐 Juga membangun aplikasi web dengan **Java Spring Boot**
+- 🌐 Juga membangun aplikasi web dengan **Java Spring Boot** dan **PHP**
 - 👩‍💼 Berpengalaman sebagai **Project Team Lead** di beberapa proyek kuliah
 - 📍 Jakarta Barat, Indonesia
 - 💬 Terbuka untuk kesempatan **magang** dan kolaborasi proyek di bidang data
@@ -45,12 +45,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Analysis & Modeling:** SDLC · Requirement Gathering · Business Process Modeling · UML · ERD · Data Cleaning · Data Warehouse (Kimball)
 
@@ -78,8 +80,8 @@
 
 | Project | Deskripsi | Tech |
 |---|---|---|
+| 🍽️ [**Antriless – Online Canteen**](https://github.com/Callysta27/Antriless) | Website pemesanan kantin kampus: menu multi-kantin, keranjang, struk dengan QR code, pelacakan status pesanan, dan dashboard admin kantin | PHP · MySQL · Bootstrap · Docker |
 | 🚗 [**GoRent – Car Rental**](https://github.com/Callysta27/rental-kendaraan) | Aplikasi rental kendaraan dengan modul penyewaan, invoice, dan panel admin *(Team Lead)* | Spring Boot · MySQL · HTML/JS |
-| 🍜 **Campus Canteen Ordering** | Backend pemesanan kantin: skema basis data, CRUD menu & pesanan, autentikasi admin *(Team Lead)* | Java Spring Boot |
 | 🎓 **Sistem Manajemen Data Kampus** | Aplikasi akademik untuk data mahasiswa, bimbingan, dan jadwal ujian dengan tabel reporting | Fullstack · RDBMS |
 | 💱 **Money Changer** | Aplikasi penukaran mata uang berbasis terminal dengan role-based access *(Team Lead)* | Java |
 | 🛒 [**Toko Elektronik**](https://github.com/Callysta27/Toko-Elektronik) | Manajemen data barang elektronik dengan konsep OOP dan File I/O | Java · OOP |
@@ -94,7 +96,10 @@
 
 ### 📈 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Callysta27&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callysta27&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   <picture>
@@ -103,5 +108,7 @@
     <img alt="Animasi ular yang memakan grafik kontribusi GitHub" src="https://raw.githubusercontent.com/Callysta27/Callysta27/output/github-snake.svg" />
   </picture>
 </p>
+
+---
 
 <p align="center"><i>"Turning raw data into decisions, one query at a time."</i> ✨</p>
